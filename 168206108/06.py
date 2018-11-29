@@ -1,4 +1,5 @@
 '''Python3'''
+# -*- coding: utf-8 -*-
 graph = {
          "yuepu":{"haibao":0,"changpian":5},
          "haibao":{"jita":30,"jiazigu":35},
